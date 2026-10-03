@@ -1,0 +1,15 @@
+# Dependencies and build output
+comiccraft/client/node_modules/
+comiccraft/client/dist/
+
+# Local inspection and temporary artifacts
+tmp/
+
+# Environment and logs
+.env
+.env.*
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
